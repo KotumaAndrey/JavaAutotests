@@ -1,5 +1,5 @@
-# API автотесты находятся в пакете org.example.api
+### API автотесты находятся в пакете org.example.api
 
 
-# UI Selenium автотесты находятся в пакете org.example.ui
+### UI Selenium автотесты находятся в пакете org.example.ui
 
